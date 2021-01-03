@@ -1,0 +1,6 @@
+import pyfgame
+
+class Rocket(object):
+    """A class to manage the Rocket"""
+    def __init__(self, to_game):
+
